@@ -1,0 +1,4 @@
+Body of a snippet that we are contributing
+The second line of the snippet
+
+Readme or Description should be at least 200 characters long. This is the integration test file. It is created for the automated test user (sampletestminion@gmail.com). This file shall be deleted automatically on test completes.
